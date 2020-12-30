@@ -12,6 +12,8 @@ The `wunderground` platform uses [Weather Underground](https://www.wunderground.
 
 <div class='note warning'>
 
+If you are a WeatherUnderground PWS Uploader, you can download the API key [here](https://www.wunderground.com/member/api-keys). Current documentation is available [here](https://docs.google.com/document/d/1eKCnKXI9xnoMGRRzOL1xPCBihNV2rOet08qpE_gArAY/edit).
+
 Obtain a WUnderground API key [here](https://www.wunderground.com/weather/api). They no longer offer free API keys, and all keys must be paid for. At this time existing free keys will continue to work, but will be disabled Dec 31, 2018, except you own a personal weather station and provide your data to WU (PWS Uploader). As of Sept 6, 2018 Weather Underground states they are declaring the End of Service for the Weather Underground API. They say they will develop new plans for non-commercial users. No timeline for this has been announced.
 
 Please consider this when using the following information.
@@ -279,4 +281,4 @@ Note that the Weather Underground sensor is added to the entity_registry, so sec
 - sensor.pws_weather_1d_metric_2
 ```
 
-Additional details about the API are available [here](https://www.wunderground.com/weather/api/d/docs).
+Additional details about the API are available [here](https://docs.google.com/document/d/1eKCnKXI9xnoMGRRzOL1xPCBihNV2rOet08qpE_gArAY/edit).
